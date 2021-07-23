@@ -1,0 +1,37 @@
+aboutMe:
+  name: sulton waeakchi
+  title: Full Stack Developer
+  bio: This is a short bio about me.
+  long_summary_title: My Profile
+  long_summary: นาย ซูลตอน แวกะจิ รหัสนัก
+  hashtags: 
+    - '#javascript'
+    - '#traveler'
+    - '#gamer'
+  timeline: 
+    - event: 2561
+      caption: เข้าเรียนมหาลัย
+      desc: ได้เข้าเรียนมหาวิทยาลัยสงขลานคริทร์ คณะวิศวกรรมศาสตร์ สาขาทั่วไป+0  ๅ  ๆ+
+    - event: 2562
+      caption: เข้าภาควิชา คอมพิวเตอร์
+      desc: ได้เข้าภาควิชา วิศวกรรมคอมพิวเตอร์ ได้เรียนเรู้วิชาต่างๆที่เกี่ยวกับกับคอมพิวเตอร์
+    - event: 2563
+      caption: ได้เข้าเเขนง ซอฟเเวร์
+      desc: ได้ศึกษาวิชาต่างๆเกี่ยวกับ ซอฟเเวร์ 
+  skills:
+    - name: Java
+      rank: 8
+    - name: Node.js
+      rank: 9
+    - name: HTML
+      rank: 10
+    - name: CSS
+      rank: 10
+    - name: Javascript
+      rank: 7
+    - name: Python
+      rank: 8
+    - name: MySQL
+      rank: 9
+    
+    
